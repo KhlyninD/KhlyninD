@@ -9,14 +9,15 @@
 
 Project name | Short descriptiion | Grade
 :------------:|:--------------:|:-----:
-[Day 00](https://github.com/KhlyninD/Java_Day00)|Basic Java language constructs|Statistics display applications built|78
-[Day 01](https://github.com/KhlyninD/Java_Day01)|OOP and Collections|Full-scale money transfer application|53
-[Day 02](https://github.com/KhlyninD/Java_Day02)|IO and files|Using input/output in Java and implement programs to manipulate a file system|42
-[Day 03](https://github.com/KhlyninD/Java_Day03)|Threads|Basic multithreading mechanisms in Java|100
-[Day 04](https://github.com/KhlyninD/Java_Day04)|Packages, java-archives(.jar) and external libraries|Create library archives and use external libraries|60
-[Day 05](https://github.com/KhlyninD/Java_Day05)|SQL/JDBC|Key mechanisms to work with PostgreSQL DBMS via JDBC|80
-[Day 06](https://github.com/KhlyninD/Java_Day06)|JUnit/Mockito|Basics of module and integration testing|85
-[Day 08](https://github.com/KhlyninD/Java_Day08)|Spring|Basics of the Spring framework|78
+[Libft](https://github.com/KhlyninD/Libft)|This project is about coding a C library. It will contain a lot of general purpose functions your programs will rely upon.|125
+[ft_printf](https://github.com/KhlyninD/ft_printf)|The goal of this project is pretty straightforward. You will recode printf(). You will mainly learn about using a variable number of arguments.|100
+[get_next_line](https://github.com/KhlyninD/get_next_line)|This project is about programming a function that returns a line read from a file descriptor.|125
+[minitalk](https://github.com/KhlyninD/minitalk)|The purpose of this project is to code a small data exchange program using UNIX signals.|125
+[so_long](https://github.com/KhlyninD/so_long)|This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements.|120
+[push_swap](https://github.com/KhlyninD/push_swap)|This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. To succeed you’ll have to manipulate various types of algorithms and choose the most appropriate solution (out of many) for an optimized data sorting.|125
+[Philosophers](https://github.com/KhlyninD/Philosophers)|In this project, you will learn the basics of threading a process. You will see how to create threads and you will discover mutexes.|125
+[minishell](https://github.com/KhlyninD/minishell)|This project is about creating a simple shell. Yes, your own little bash. You will learn a lot about processes and file descriptors.|100
+[cub3d](https://github.com/KhlyninD/cub3d)|This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way.|105
 
 ### Java projects
 
