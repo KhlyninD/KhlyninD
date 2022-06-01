@@ -2,8 +2,6 @@
 
 ## A novice programmer who started his way at school 21
 
-### Projects
-
 ### С projects
 
 
@@ -21,7 +19,9 @@ Project name | Short descriptiion | Grade
 
 ### Java projects
 
-[Java_piscine](https://github.com/KhlyninD/Piscine-Java)
+Project name | Short descriptiion | Grade
+:------------:|:--------------:|:-----:
+[Java_piscine](https://github.com/KhlyninD/Piscine-Java)|The Java piscine is developed in order to overcome the barrier to entry to the professional field. All days of the piscine are focused on learning and understanding the Java infrastructure and basic technologies which are used in enterprise development. Acquired knowledge will help you to understand the main language mechanics and develop the software conforming to the generally accepted standards.|83
 
 ### Languages and Tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
