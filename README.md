@@ -2,8 +2,9 @@
 
 ## A novice programmer who started his way at school 21
 
-### С projects
+### Projects
 
+<details><summary>С projects</summary>
 
 Project name | Short descriptiion | Grade
 :------------:|:--------------:|:-----:
@@ -16,13 +17,16 @@ Project name | Short descriptiion | Grade
 [Philosophers](https://github.com/KhlyninD/Philosophers)|In this project, you will learn the basics of threading a process. You will see how to create threads and you will discover mutexes.|125
 [minishell](https://github.com/KhlyninD/minishell)|This project is about creating a simple shell. Yes, your own little bash. You will learn a lot about processes and file descriptors.|100
 [cub3d](https://github.com/KhlyninD/cub3d)|This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way.|105
-
-### Java projects
+</details>
+  
+<details><summary>Java projects</summary>
 
 Project name | Short descriptiion | Grade
 :------------:|:--------------:|:-----:
 [Java_piscine](https://github.com/KhlyninD/Piscine-Java)|The Java piscine is developed in order to overcome the barrier to entry to the professional field. All days of the piscine are focused on learning and understanding the Java infrastructure and basic technologies which are used in enterprise development. Acquired knowledge will help you to understand the main language mechanics and develop the software conforming to the generally accepted standards.|83
-
+</details>
+  
+  
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
