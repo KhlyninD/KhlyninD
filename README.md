@@ -25,6 +25,15 @@ Project name | Short descriptiion | Grade
 :------------:|:--------------:|:-----:
 [Java_piscine](https://github.com/KhlyninD/Piscine-Java)|The Java piscine is developed in order to overcome the barrier to entry to the professional field. All days of the piscine are focused on learning and understanding the Java infrastructure and basic technologies which are used in enterprise development. Acquired knowledge will help you to understand the main language mechanics and develop the software conforming to the generally accepted standards.|83
 </details>
+
+<details><summary>C# projects</summary>
+  
+  - [VneshSort](https://github.com/KhlyninD/VneshSort)
+  - [ReadWriterFileAndMSSQL](https://github.com/KhlyninD/VneshSort)
+  - [Uchet_Servis](https://github.com/KhlyninD/Uchet_Servis)
+  - [WebApiMail](https://github.com/KhlyninD/WebApiMail)
+  
+</details>
   
   
 ### Languages and Tools:
