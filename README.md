@@ -31,7 +31,7 @@ Project name | Short descriptiion | Grade
 <details><summary>C# projects</summary>
   
   - [VneshSort](https://github.com/KhlyninD/VneshSort)
-  - [ReadWriterFileAndMSSQL](https://github.com/KhlyninD/VneshSort)
+  - [ReadWriterFileAndMSSQL](https://github.com/KhlyninD/ReadWriterFileAndMSSQL)
   - [Uchet_Servis](https://github.com/KhlyninD/Uchet_Servis)
   - [WebApiMail](https://github.com/KhlyninD/WebApiMail)
   
